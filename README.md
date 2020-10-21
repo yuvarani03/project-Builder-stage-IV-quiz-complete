@@ -37,6 +37,10 @@ Check below to see the overall output: You will be trying to replicate this
 ### PROGRESSION 1 | KEEP A NOTE OF TIME
 Your task in this iteration is to complete the total quiz application. Keep a timer at the right end and the timer should run for 2 mins. At the end of two mins the quiz should be closed.
 
+### PROGRESSION 2 | REPLACE ME
+Replace the questions kept in the questions array by the API provided here.
+
+
 ### Bonus | TIMER FOR EVERY QUESTION
 Keep a timer for every question. The questions should change within 10 seconds.
 
