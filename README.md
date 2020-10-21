@@ -38,7 +38,7 @@ Check below to see the overall output: You will be trying to replicate this
 Your task in this iteration is to complete the total quiz application. Keep a timer at the right end and the timer should run for 2 mins. At the end of two mins the quiz should be closed.
 
 ### PROGRESSION 2 | REPLACE ME
-Replace the questions kept in the questions array by the API provided here.
+Instead of fetching data from the existing json array and replace the it by fetching from the api provided below.
 `https://my-json-server.typicode.com/Naveen132895/quiz-api/questions`
 
 ### Bonus | TIMER FOR EVERY QUESTION
