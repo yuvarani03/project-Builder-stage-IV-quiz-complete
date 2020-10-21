@@ -39,7 +39,7 @@ Your task in this iteration is to complete the total quiz application. Keep a ti
 
 ### PROGRESSION 2 | REPLACE ME
 Replace the questions kept in the questions array by the API provided here.
-
+`https://my-json-server.typicode.com/Naveen132895/quiz-api/questions`
 
 ### Bonus | TIMER FOR EVERY QUESTION
 Keep a timer for every question. The questions should change within 10 seconds.
